@@ -6,6 +6,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//Brute force approach------------------------
+
 /**
 void setZero(vector<vector<int>> &matrix)
 {
