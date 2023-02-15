@@ -19,7 +19,7 @@ int main()
 
 int main()
 {
-    vector<int> arr = {1, 3, 2};
+    vector<int> arr = {3, 2, 1};
     int n = arr.size(), i, j;
     for (i = n - 2; i >= 0; i--)
     {
